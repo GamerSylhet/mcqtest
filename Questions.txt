@@ -1,0 +1,12 @@
+{What is the capital of Dhaka?
+1. Sylhet
+2. Cumilla
+3. Dhaka [correct]
+4. Ranpur
+}
+{What is the Main city of Sylhet Division?
+1. Sylhet [correct]
+2. Hobigonj
+3. Sunamgonj
+4. Moulovibazar
+}
