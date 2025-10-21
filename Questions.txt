@@ -1,12 +1,180 @@
-{What is the capital of Dhaka?
-1. Sylhet
-2. Cumilla
-3. Dhaka [correct]
-4. Ranpur
+{What is the capital of France?
+1. Berlin
+2. Madrid
+3. Paris [correct]
+4. Rome
 }
-{What is the Main city of Sylhet Division?
-1. Sylhet [correct]
-2. Hobigonj
-3. Sunamgonj
-4. Moulovibazar
+{Which planet is known as the Red Planet?
+1. Venus
+2. Mars [correct]
+3. Jupiter
+4. Saturn
+}
+{Who painted the Mona Lisa?
+1. Vincent van Gogh
+2. Pablo Picasso
+3. Leonardo da Vinci [correct]
+4. Michelangelo
+}
+{What is the largest ocean on Earth?
+1. Atlantic Ocean
+2. Indian Ocean
+3. Arctic Ocean
+4. Pacific Ocean [correct]
+}
+{How many continents are there in the world?
+1. 5
+2. 6
+3. 7 [correct]
+4. 8
+}
+{What is the smallest country in the world?
+1. Monaco
+2. Vatican City [correct]
+3. San Marino
+4. Liechtenstein
+}
+{Which element has the chemical symbol 'O'?
+1. Gold
+2. Oxygen [correct]
+3. Silver
+4. Osmium
+}
+{Who wrote the play 'Romeo and Juliet'?
+1. Charles Dickens
+2. William Shakespeare [correct]
+3. Jane Austen
+4. Mark Twain
+}
+{What is the tallest mountain in the world?
+1. K2
+2. Kilimanjaro
+3. Mount Everest [correct]
+4. Denali
+}
+{In which year did World War II end?
+1. 1943
+2. 1944
+3. 1945 [correct]
+4. 1946
+}
+{What is the largest mammal in the world?
+1. African Elephant
+2. Blue Whale [correct]
+3. Giraffe
+4. Polar Bear
+}
+{Which country is known as the Land of the Rising Sun?
+1. China
+2. Thailand
+3. Japan [correct]
+4. South Korea
+}
+{How many bones are in the adult human body?
+1. 186
+2. 206 [correct]
+3. 226
+4. 246
+}
+{What is the capital of Australia?
+1. Sydney
+2. Melbourne
+3. Canberra [correct]
+4. Brisbane
+}
+{Who invented the telephone?
+1. Thomas Edison
+2. Nikola Tesla
+3. Alexander Graham Bell [correct]
+4. Benjamin Franklin
+}
+{What is the speed of light?
+1. 300,000 km/s [correct]
+2. 150,000 km/s
+3. 450,000 km/s
+4. 600,000 km/s
+}
+{Which gas do plants absorb from the atmosphere?
+1. Oxygen
+2. Nitrogen
+3. Carbon Dioxide [correct]
+4. Hydrogen
+}
+{What is the largest desert in the world?
+1. Sahara Desert
+2. Gobi Desert
+3. Antarctic Desert [correct]
+4. Arabian Desert
+}
+{Who was the first person to walk on the moon?
+1. Buzz Aldrin
+2. Neil Armstrong [correct]
+3. Yuri Gagarin
+4. Michael Collins
+}
+{How many players are there in a soccer team?
+1. 9
+2. 10
+3. 11 [correct]
+4. 12
+}
+{What is the chemical formula for water?
+1. H2O [correct]
+2. CO2
+3. O2
+4. H2O2
+}
+{Which is the longest river in the world?
+1. Amazon River
+2. Nile River [correct]
+3. Yangtze River
+4. Mississippi River
+}
+{What is the smallest planet in our solar system?
+1. Mars
+2. Venus
+3. Mercury [correct]
+4. Pluto
+}
+{In which city is the Statue of Liberty located?
+1. Washington D.C.
+2. Boston
+3. New York City [correct]
+4. Philadelphia
+}
+{How many sides does a hexagon have?
+1. 5
+2. 6 [correct]
+3. 7
+4. 8
+}
+{What is the largest organ in the human body?
+1. Heart
+2. Liver
+3. Brain
+4. Skin [correct]
+}
+{Which country has the most population?
+1. India
+2. China [correct]
+3. United States
+4. Indonesia
+}
+{What is the currency of Japan?
+1. Yuan
+2. Won
+3. Yen [correct]
+4. Ringgit
+}
+{নিচের কোনটি ইন্টারনেটে ব্যববৃত হয়?
+1. ডিজিটাল কনটেন্ট [correct]
+2. ব্যান্ডউইথ
+3. ওয়েব সার্ভার
+4. ওয়েব ক্লায়েন্ট
+}
+{ইন্টারনেট কী?
+1. ডিজিটাল কনটেন্ট
+2. বিশ্বব্যাপী বিস্তৃত একটি নেটওয়ার্ক [correct]
+3. কম্পিউটার সফটওয়্যার
+4. ওয়েব ব্রাউজার
 }

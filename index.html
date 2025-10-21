@@ -14,18 +14,32 @@
   </div>
   <div class="instruction">
     <header>
-      <p>Some Rules of this quiz</p>
+      <p>Quiz Settings & Rules</p>
     </header>
+    
+    <!-- Quiz Settings -->
+    <div class="quiz-settings">
+      <div class="setting-item">
+        <label>Number of Questions: <span id="questionCount">10</span></label>
+        <input type="range" id="questionSlider" min="5" max="30" value="10" class="slider">
+      </div>
+      <div class="setting-item">
+        <label>Time per Question: <span id="timeCount">15</span> seconds</label>
+        <input type="range" id="timeSlider" min="10" max="60" value="15" step="5" class="slider">
+      </div>
+    </div>
+    
     <div class="rules">
-      <p>1.You will have only <span>15 seconds </span>to answer each questions</p>
-      <p>2.Once you selected any option then it would consider your final answer</p>
-      <p>3.Once you selected any option it can't be undone</p>
-      <p>4.For each correct answer you will be rewarded with points</p>
-      <p>5.The total score will be revealed at the end</p>
+      <p>1. You will have the selected time to answer each question</p>
+      <p>2. Once you select any option, it will be considered your final answer</p>
+      <p>3. Once you select any option it can't be undone</p>
+      <p>4. For each correct answer you will be rewarded with points</p>
+      <p>5. The total score will be revealed at the end</p>
+      <p>6. Questions will be randomly selected from the question bank</p>
     </div>
     <div class="instruction-btn">
-      <button>Exit Quiz</button>
-      <button>Start Quiz</button>
+      <button class="exit-btn">Exit Quiz</button>
+      <button class="start-quiz-btn">Start Quiz</button>
     </div>
   </div>
   
@@ -49,7 +63,7 @@
       <p class="question-num">
         <span class="current-question">1</span>
         <span>of</span>
-        <span class="total-question">8 </span>
+        <span class="total-question">8</span>
         <span>Questions</span>
       </p>
       <div class="btn">
